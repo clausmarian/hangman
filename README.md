@@ -1,5 +1,5 @@
 # Hangman
-A simple hangman game that is played in a terminal.
+A simple hangman game for Linux that is played in a terminal.
 
 ## Installation
 ### Arch linux
