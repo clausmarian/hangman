@@ -1,0 +1,10 @@
+[Desktop Entry]
+Keywords=Game
+Version=1.0
+Type=Application
+Terminal=true
+Exec=/usr/lib/hangman/hangman
+Icon=/usr/lib/hangman/hangman_icon.png
+Name=Hangman
+Comment=Simple single-player hangman game.
+GenericName=Game;ConsoleOnly;
