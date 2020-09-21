@@ -8,3 +8,4 @@ Icon=/usr/share/pixmaps/hangman_icon.png
 Name=Hangman
 Comment=Simple single-player hangman game.
 GenericName=Game;ConsoleOnly;
+Categories=Game;
